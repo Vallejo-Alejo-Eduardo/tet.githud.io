@@ -1,7 +1,7 @@
 /* stablece la cabezera */
 body{
     background-color: #000000;
-    background-image: url('https://static.wikia.nocookie.net/memes-pedia/images/1/14/Youareanidiot.gif/revision/latest?cb=20210328031937&path-prefix=es');
+    background-image: img("Youreanidiot.gif");
     background-size: 200px;
     border-image-slice: fill;
 }
@@ -77,4 +77,5 @@ header{
     text-decoration: none;
     color: black;
     font-family: 'Times New Roman', Times, serif;
+
 }
