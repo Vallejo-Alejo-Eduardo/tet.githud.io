@@ -1,0 +1,80 @@
+/* stablece la cabezera */
+body{
+    background-color: #000000;
+    background-image: url('https://static.wikia.nocookie.net/memes-pedia/images/1/14/Youareanidiot.gif/revision/latest?cb=20210328031937&path-prefix=es');
+    background-size: 200px;
+    border-image-slice: fill;
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    padding: 1%;
+    text-align: center;
+    border-top: 0px solid rgb(255, 255, 255);
+    border-bottom: 10px solid rgb(113, 113, 113);
+    color: black;
+}
+
+.image-inline{
+    width: 100px;
+        height: auto;
+        float: left;
+    display: inline;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.navbar ul{
+    background-color: rgb(0, 0, 0);
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.btn-nav{
+    background-color: rgb(124, 124, 124);
+    color: black;
+    border: 1px solid #000000;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn-nav:hover{
+    background-color: rgb(255, 255, 255);
+}
+
+.contenedor{
+    text-align: center;
+    display: flex;
+    width: 93.5vw;
+}
+
+.articulo{
+    color: rgb(255, 255, 255);
+    background-color: #000000;
+    flex: 3;
+    padding: 20px;
+}
+
+.pie{
+    color: white;
+    background: #000000;
+}
+
+.Propaganda{
+    background-color: rgb(255, 255, 255);
+    flex: 1;
+    padding: 10px;
+    width: 1415px;
+}
+
+.body{ margin: 0;}
+
+.a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
