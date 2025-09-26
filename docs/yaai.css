@@ -1,7 +1,7 @@
 /* stablece la cabezera */
 body{
     background-color: #000000;
-    background-image: image("Youreanidiot.gif");
+    background-image: url(Youareanidiot.gif);
     background-size: 200px;
     border-image-slice: fill;
 }
@@ -79,4 +79,5 @@ header{
     font-family: 'Times New Roman', Times, serif;
 
 }
+
 
